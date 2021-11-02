@@ -1,0 +1,7 @@
+<launch>
+  <node name="dist_calc" pkg="distance_calculator" type="dist_calc" output="screen">
+    <param name="robot_pose_topic" value="/cassie/pose" />
+  </node>
+</launch>
+
+

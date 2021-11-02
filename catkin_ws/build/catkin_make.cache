@@ -1,0 +1,2 @@
+distance_calculator
+-DCMAKE_BUILD_TYPE=Release -DCATKIN_DEVEL_PREFIX=/home/jinze/biped_lab/dist_calculator/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/jinze/biped_lab/dist_calculator/catkin_ws/install -G Unix Makefiles

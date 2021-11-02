@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/jinze/biped_lab/dist_calculator/catkin_ws/devel/setup.sh
